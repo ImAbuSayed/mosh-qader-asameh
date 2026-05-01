@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا نور عيني في هذا الظلام
+> آه يا نور
+> روحي تنادي بصدق الغرام
+> في كل حين
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
