@@ -13,7 +13,7 @@
 | Lyric Writing Date | May 01, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/mosh-qader-asameh/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Sync Licensing for Mosh Qader Asameh](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Secure Licensing Rights for Mosh Qader Asameh](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
